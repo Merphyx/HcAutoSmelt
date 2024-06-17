@@ -43,7 +43,7 @@ public class HcFastSmelt implements ClientModInitializer {
         toggleHotbarKey = new KeyBinding(
                 "key.hcfastsmelt.togglehotbar",
                 InputUtil.Type.KEYSYM,
-                GLFW.GLFW_KEY_PAGE_UP,
+                GLFW.GLFW_KEY_H,
                 "category.hcfastsmelt.main"
         );
 
